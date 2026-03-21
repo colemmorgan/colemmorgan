@@ -1,1 +1,2 @@
-Cole Morgan - Design Engineer -Satlantis US - uf2027
+Design Engineer building geospatial tools and ML platforms at
+Satlantis. Graduating from UFlorida spring 27’.
